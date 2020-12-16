@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F4F7FC;
+}
+
+h1, h2{
+    font-size: 5em;
+    line-height: 10px;
+    color: maroon;
+}
+
+
+#myTable {
+    width: 100%;
+    }
+
+#myTable tr>td> {
+    width: 500px;
+    height: auto;
+}
+
+#myTable img {
+    width: 400px;
+    height: auto;
+    border-width: 20PX;
+    border-radius: 15PX;
+    border-color: seagreen;
+    border-style: ridge;
+}
+
+th {
+    background-color: white;
+}
+
+td, th {
+    border: none;
+text-align: center;
+}
